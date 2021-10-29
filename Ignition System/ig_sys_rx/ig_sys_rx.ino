@@ -44,5 +44,6 @@ void loop()
    if(led_counter==0)
   {
   radio.write(&check1,sizeof(check1));
+  Serial.println(check1);
   }
 }
