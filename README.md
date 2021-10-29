@@ -1,1 +1,1 @@
-# thrustMIT
+# thrustMIT Repository for Avionics
